@@ -482,6 +482,11 @@ progress {
   vertical-align: baseline;
 }
 
+.profile {
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
 [hidden] {
   display: none !important;
 }
@@ -10832,3 +10837,4 @@ textarea.form-control-lg {
   width: 4rem;
   font-size: 2rem;
 }
+
